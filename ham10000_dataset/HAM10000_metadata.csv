@@ -1,0 +1,1001 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization
+LESION_00000,ISIC_0000000,nv,histo,31,male,upper extremity
+LESION_00001,ISIC_0000001,nv,consensus,55,female,lower extremity
+LESION_00002,ISIC_0000002,bkl,consensus,74,female,upper extremity
+LESION_00003,ISIC_0000003,nv,histo,35,female,unknown
+LESION_00004,ISIC_0000004,nv,follow_up,21,female,trunk
+LESION_00005,ISIC_0000005,nv,histo,44,female,unknown
+LESION_00006,ISIC_0000006,df,histo,33,male,upper extremity
+LESION_00007,ISIC_0000007,nv,follow_up,32,male,unknown
+LESION_00008,ISIC_0000008,nv,consensus,41,male,trunk
+LESION_00009,ISIC_0000009,mel,histo,29,male,chest
+LESION_00010,ISIC_0000010,nv,follow_up,29,male,chest
+LESION_00011,ISIC_0000011,nv,histo,61,male,trunk
+LESION_00012,ISIC_0000012,akiec,follow_up,39,female,trunk
+LESION_00013,ISIC_0000013,nv,follow_up,39,female,chest
+LESION_00014,ISIC_0000014,nv,histo,22,male,upper extremity
+LESION_00015,ISIC_0000015,nv,histo,32,male,foot
+LESION_00016,ISIC_0000016,nv,histo,67,female,chest
+LESION_00017,ISIC_0000017,nv,follow_up,38,male,trunk
+LESION_00018,ISIC_0000018,vasc,follow_up,70,male,chest
+LESION_00019,ISIC_0000019,nv,histo,37,female,lower extremity
+LESION_00020,ISIC_0000020,akiec,consensus,58,male,unknown
+LESION_00021,ISIC_0000021,mel,histo,71,female,lower extremity
+LESION_00022,ISIC_0000022,bkl,consensus,59,male,face
+LESION_00023,ISIC_0000023,mel,consensus,55,male,lower extremity
+LESION_00024,ISIC_0000024,nv,histo,23,male,lower extremity
+LESION_00025,ISIC_0000025,bcc,histo,37,male,unknown
+LESION_00026,ISIC_0000026,mel,histo,48,male,foot
+LESION_00027,ISIC_0000027,nv,histo,65,male,trunk
+LESION_00028,ISIC_0000028,nv,follow_up,75,female,trunk
+LESION_00029,ISIC_0000029,bkl,histo,68,female,upper extremity
+LESION_00030,ISIC_0000030,nv,histo,21,female,abdomen
+LESION_00031,ISIC_0000031,nv,follow_up,42,female,trunk
+LESION_00032,ISIC_0000032,nv,histo,27,female,upper extremity
+LESION_00033,ISIC_0000033,nv,follow_up,65,male,lower extremity
+LESION_00034,ISIC_0000034,nv,histo,42,male,unknown
+LESION_00035,ISIC_0000035,nv,consensus,33,male,upper extremity
+LESION_00036,ISIC_0000036,mel,follow_up,50,female,trunk
+LESION_00037,ISIC_0000037,nv,follow_up,52,female,back
+LESION_00038,ISIC_0000038,nv,histo,27,female,abdomen
+LESION_00039,ISIC_0000039,nv,histo,54,male,chest
+LESION_00040,ISIC_0000040,akiec,follow_up,48,male,trunk
+LESION_00041,ISIC_0000041,bkl,histo,52,female,face
+LESION_00042,ISIC_0000042,nv,histo,31,male,upper extremity
+LESION_00043,ISIC_0000043,nv,histo,51,female,trunk
+LESION_00044,ISIC_0000044,nv,histo,49,female,trunk
+LESION_00045,ISIC_0000045,bkl,follow_up,66,male,unknown
+LESION_00046,ISIC_0000046,nv,histo,76,female,upper extremity
+LESION_00047,ISIC_0000047,nv,histo,39,male,trunk
+LESION_00048,ISIC_0000048,nv,histo,78,male,chest
+LESION_00049,ISIC_0000049,mel,histo,52,male,upper extremity
+LESION_00050,ISIC_0000050,nv,follow_up,64,female,lower extremity
+LESION_00051,ISIC_0000051,akiec,histo,47,female,foot
+LESION_00052,ISIC_0000052,bkl,histo,60,male,face
+LESION_00053,ISIC_0000053,mel,histo,28,female,foot
+LESION_00054,ISIC_0000054,nv,histo,71,female,lower extremity
+LESION_00055,ISIC_0000055,nv,histo,61,male,upper extremity
+LESION_00056,ISIC_0000056,nv,follow_up,40,female,chest
+LESION_00057,ISIC_0000057,bkl,histo,21,female,face
+LESION_00058,ISIC_0000058,nv,histo,60,male,back
+LESION_00059,ISIC_0000059,akiec,follow_up,66,male,back
+LESION_00060,ISIC_0000060,nv,histo,22,female,abdomen
+LESION_00061,ISIC_0000061,nv,follow_up,42,male,chest
+LESION_00062,ISIC_0000062,nv,consensus,77,female,chest
+LESION_00063,ISIC_0000063,bcc,histo,75,male,foot
+LESION_00064,ISIC_0000064,bkl,histo,74,male,upper extremity
+LESION_00065,ISIC_0000065,bkl,follow_up,43,female,face
+LESION_00066,ISIC_0000066,nv,consensus,34,female,back
+LESION_00067,ISIC_0000067,nv,follow_up,65,male,back
+LESION_00068,ISIC_0000068,nv,follow_up,74,female,back
+LESION_00069,ISIC_0000069,df,follow_up,57,female,foot
+LESION_00070,ISIC_0000070,nv,histo,57,female,upper extremity
+LESION_00071,ISIC_0000071,nv,histo,43,female,chest
+LESION_00072,ISIC_0000072,nv,follow_up,30,female,back
+LESION_00073,ISIC_0000073,nv,histo,76,male,foot
+LESION_00074,ISIC_0000074,bcc,histo,41,female,foot
+LESION_00075,ISIC_0000075,nv,histo,70,female,trunk
+LESION_00076,ISIC_0000076,nv,histo,25,male,face
+LESION_00077,ISIC_0000077,nv,histo,37,male,foot
+LESION_00078,ISIC_0000078,bkl,histo,58,male,back
+LESION_00079,ISIC_0000079,nv,histo,53,female,unknown
+LESION_00080,ISIC_0000080,akiec,histo,71,female,trunk
+LESION_00081,ISIC_0000081,nv,follow_up,70,female,back
+LESION_00082,ISIC_0000082,bkl,follow_up,44,male,unknown
+LESION_00083,ISIC_0000083,nv,follow_up,53,female,abdomen
+LESION_00084,ISIC_0000084,nv,histo,61,female,trunk
+LESION_00085,ISIC_0000085,nv,histo,65,female,trunk
+LESION_00086,ISIC_0000086,nv,histo,43,male,lower extremity
+LESION_00087,ISIC_0000087,mel,follow_up,52,male,trunk
+LESION_00088,ISIC_0000088,bkl,follow_up,62,female,trunk
+LESION_00089,ISIC_0000089,nv,histo,42,male,unknown
+LESION_00090,ISIC_0000090,nv,follow_up,42,male,foot
+LESION_00091,ISIC_0000091,nv,histo,31,female,trunk
+LESION_00092,ISIC_0000092,nv,histo,50,male,chest
+LESION_00093,ISIC_0000093,nv,follow_up,50,female,face
+LESION_00094,ISIC_0000094,nv,follow_up,50,female,face
+LESION_00095,ISIC_0000095,mel,histo,65,female,face
+LESION_00096,ISIC_0000096,bkl,histo,21,male,chest
+LESION_00097,ISIC_0000097,nv,follow_up,72,male,unknown
+LESION_00098,ISIC_0000098,nv,histo,35,female,lower extremity
+LESION_00099,ISIC_0000099,nv,histo,36,female,face
+LESION_00100,ISIC_0000100,bkl,histo,54,male,chest
+LESION_00101,ISIC_0000101,nv,follow_up,56,male,unknown
+LESION_00102,ISIC_0000102,akiec,follow_up,76,male,foot
+LESION_00103,ISIC_0000103,vasc,follow_up,70,female,abdomen
+LESION_00104,ISIC_0000104,nv,histo,58,male,face
+LESION_00105,ISIC_0000105,nv,histo,76,female,back
+LESION_00106,ISIC_0000106,nv,follow_up,74,male,abdomen
+LESION_00107,ISIC_0000107,nv,histo,37,female,upper extremity
+LESION_00108,ISIC_0000108,akiec,follow_up,72,female,back
+LESION_00109,ISIC_0000109,bkl,histo,70,male,trunk
+LESION_00110,ISIC_0000110,nv,follow_up,74,female,abdomen
+LESION_00111,ISIC_0000111,nv,follow_up,72,male,upper extremity
+LESION_00112,ISIC_0000112,bkl,histo,21,male,lower extremity
+LESION_00113,ISIC_0000113,nv,histo,75,female,chest
+LESION_00114,ISIC_0000114,nv,histo,30,female,unknown
+LESION_00115,ISIC_0000115,nv,histo,41,male,trunk
+LESION_00116,ISIC_0000116,bcc,follow_up,24,female,foot
+LESION_00117,ISIC_0000117,nv,consensus,55,male,foot
+LESION_00118,ISIC_0000118,nv,follow_up,70,female,abdomen
+LESION_00119,ISIC_0000119,mel,histo,30,male,abdomen
+LESION_00120,ISIC_0000120,bkl,histo,52,female,trunk
+LESION_00121,ISIC_0000121,bcc,histo,26,male,face
+LESION_00122,ISIC_0000122,nv,histo,74,male,chest
+LESION_00123,ISIC_0000123,df,histo,38,female,trunk
+LESION_00124,ISIC_0000124,nv,histo,53,female,trunk
+LESION_00125,ISIC_0000125,nv,histo,70,male,chest
+LESION_00126,ISIC_0000126,nv,consensus,72,female,back
+LESION_00127,ISIC_0000127,nv,follow_up,41,female,upper extremity
+LESION_00128,ISIC_0000128,df,histo,46,female,chest
+LESION_00129,ISIC_0000129,nv,follow_up,33,female,trunk
+LESION_00130,ISIC_0000130,nv,histo,32,female,upper extremity
+LESION_00131,ISIC_0000131,nv,histo,37,female,unknown
+LESION_00132,ISIC_0000132,mel,histo,47,female,back
+LESION_00133,ISIC_0000133,nv,histo,50,male,back
+LESION_00134,ISIC_0000134,nv,histo,44,male,foot
+LESION_00135,ISIC_0000135,nv,histo,73,male,unknown
+LESION_00136,ISIC_0000136,nv,histo,51,male,face
+LESION_00137,ISIC_0000137,bcc,histo,37,female,foot
+LESION_00138,ISIC_0000138,nv,histo,76,male,trunk
+LESION_00139,ISIC_0000139,nv,follow_up,28,male,upper extremity
+LESION_00140,ISIC_0000140,nv,follow_up,79,male,unknown
+LESION_00141,ISIC_0000141,nv,histo,47,male,abdomen
+LESION_00142,ISIC_0000142,mel,histo,66,female,chest
+LESION_00143,ISIC_0000143,bkl,follow_up,37,male,foot
+LESION_00144,ISIC_0000144,bkl,histo,38,female,upper extremity
+LESION_00145,ISIC_0000145,nv,follow_up,69,female,back
+LESION_00146,ISIC_0000146,mel,follow_up,33,female,back
+LESION_00147,ISIC_0000147,nv,histo,55,male,abdomen
+LESION_00148,ISIC_0000148,mel,histo,54,male,face
+LESION_00149,ISIC_0000149,nv,histo,66,male,unknown
+LESION_00150,ISIC_0000150,nv,follow_up,27,male,chest
+LESION_00151,ISIC_0000151,nv,histo,23,female,trunk
+LESION_00152,ISIC_0000152,nv,follow_up,77,female,chest
+LESION_00153,ISIC_0000153,bkl,histo,41,female,unknown
+LESION_00154,ISIC_0000154,nv,histo,34,male,lower extremity
+LESION_00155,ISIC_0000155,nv,histo,50,male,lower extremity
+LESION_00156,ISIC_0000156,mel,follow_up,65,male,back
+LESION_00157,ISIC_0000157,nv,histo,66,female,back
+LESION_00158,ISIC_0000158,nv,histo,48,female,lower extremity
+LESION_00159,ISIC_0000159,bkl,histo,59,male,face
+LESION_00160,ISIC_0000160,bkl,histo,25,male,lower extremity
+LESION_00161,ISIC_0000161,nv,follow_up,74,female,abdomen
+LESION_00162,ISIC_0000162,nv,follow_up,26,male,back
+LESION_00163,ISIC_0000163,nv,histo,66,female,abdomen
+LESION_00164,ISIC_0000164,mel,histo,36,female,foot
+LESION_00165,ISIC_0000165,nv,follow_up,48,male,unknown
+LESION_00166,ISIC_0000166,mel,histo,76,male,abdomen
+LESION_00167,ISIC_0000167,akiec,histo,21,female,unknown
+LESION_00168,ISIC_0000168,bcc,histo,35,male,face
+LESION_00169,ISIC_0000169,nv,follow_up,27,female,unknown
+LESION_00170,ISIC_0000170,nv,histo,68,male,upper extremity
+LESION_00171,ISIC_0000171,nv,histo,79,female,face
+LESION_00172,ISIC_0000172,nv,consensus,62,male,back
+LESION_00173,ISIC_0000173,nv,consensus,57,male,lower extremity
+LESION_00174,ISIC_0000174,nv,histo,65,female,back
+LESION_00175,ISIC_0000175,nv,histo,73,male,back
+LESION_00176,ISIC_0000176,mel,histo,68,male,trunk
+LESION_00177,ISIC_0000177,bcc,follow_up,68,female,lower extremity
+LESION_00178,ISIC_0000178,mel,histo,33,male,foot
+LESION_00179,ISIC_0000179,bkl,histo,59,male,chest
+LESION_00180,ISIC_0000180,nv,histo,30,male,abdomen
+LESION_00181,ISIC_0000181,bkl,histo,57,female,upper extremity
+LESION_00182,ISIC_0000182,bkl,histo,23,male,back
+LESION_00183,ISIC_0000183,akiec,histo,47,male,face
+LESION_00184,ISIC_0000184,nv,histo,59,male,lower extremity
+LESION_00185,ISIC_0000185,nv,follow_up,34,female,chest
+LESION_00186,ISIC_0000186,mel,follow_up,59,female,face
+LESION_00187,ISIC_0000187,nv,histo,35,female,foot
+LESION_00188,ISIC_0000188,nv,follow_up,42,female,lower extremity
+LESION_00189,ISIC_0000189,bcc,histo,75,male,lower extremity
+LESION_00190,ISIC_0000190,nv,follow_up,63,male,trunk
+LESION_00191,ISIC_0000191,bcc,histo,20,male,unknown
+LESION_00192,ISIC_0000192,mel,histo,72,male,trunk
+LESION_00193,ISIC_0000193,nv,consensus,58,male,abdomen
+LESION_00194,ISIC_0000194,nv,histo,23,male,foot
+LESION_00195,ISIC_0000195,mel,histo,67,female,upper extremity
+LESION_00196,ISIC_0000196,mel,follow_up,72,female,back
+LESION_00197,ISIC_0000197,nv,follow_up,70,male,unknown
+LESION_00198,ISIC_0000198,mel,histo,25,female,lower extremity
+LESION_00199,ISIC_0000199,nv,consensus,47,male,chest
+LESION_00200,ISIC_0000200,nv,consensus,24,male,foot
+LESION_00201,ISIC_0000201,nv,consensus,23,male,chest
+LESION_00202,ISIC_0000202,nv,histo,43,female,unknown
+LESION_00203,ISIC_0000203,nv,follow_up,52,male,trunk
+LESION_00204,ISIC_0000204,mel,histo,62,male,face
+LESION_00205,ISIC_0000205,mel,histo,25,male,trunk
+LESION_00206,ISIC_0000206,nv,consensus,46,male,back
+LESION_00207,ISIC_0000207,bcc,follow_up,70,female,lower extremity
+LESION_00208,ISIC_0000208,nv,histo,62,male,abdomen
+LESION_00209,ISIC_0000209,mel,histo,50,female,foot
+LESION_00210,ISIC_0000210,bcc,consensus,24,female,face
+LESION_00211,ISIC_0000211,nv,histo,70,female,abdomen
+LESION_00212,ISIC_0000212,bcc,histo,32,female,chest
+LESION_00213,ISIC_0000213,nv,follow_up,38,female,upper extremity
+LESION_00214,ISIC_0000214,mel,follow_up,45,male,chest
+LESION_00215,ISIC_0000215,nv,histo,60,male,back
+LESION_00216,ISIC_0000216,akiec,histo,32,male,abdomen
+LESION_00217,ISIC_0000217,nv,histo,75,female,upper extremity
+LESION_00218,ISIC_0000218,bkl,histo,55,female,upper extremity
+LESION_00219,ISIC_0000219,nv,follow_up,28,male,foot
+LESION_00220,ISIC_0000220,nv,histo,28,male,unknown
+LESION_00221,ISIC_0000221,nv,histo,54,male,lower extremity
+LESION_00222,ISIC_0000222,mel,histo,74,male,upper extremity
+LESION_00223,ISIC_0000223,nv,histo,30,male,face
+LESION_00224,ISIC_0000224,nv,follow_up,50,male,unknown
+LESION_00225,ISIC_0000225,nv,histo,24,male,foot
+LESION_00226,ISIC_0000226,nv,histo,34,female,abdomen
+LESION_00227,ISIC_0000227,bkl,consensus,30,male,back
+LESION_00228,ISIC_0000228,vasc,follow_up,65,male,foot
+LESION_00229,ISIC_0000229,nv,histo,41,male,upper extremity
+LESION_00230,ISIC_0000230,bkl,consensus,26,male,trunk
+LESION_00231,ISIC_0000231,nv,follow_up,46,male,lower extremity
+LESION_00232,ISIC_0000232,nv,histo,57,male,face
+LESION_00233,ISIC_0000233,akiec,histo,70,male,lower extremity
+LESION_00234,ISIC_0000234,nv,histo,54,male,chest
+LESION_00235,ISIC_0000235,nv,follow_up,54,male,unknown
+LESION_00236,ISIC_0000236,bkl,histo,73,male,trunk
+LESION_00237,ISIC_0000237,mel,follow_up,54,male,foot
+LESION_00238,ISIC_0000238,nv,histo,55,female,upper extremity
+LESION_00239,ISIC_0000239,mel,histo,63,male,face
+LESION_00240,ISIC_0000240,bkl,histo,26,female,upper extremity
+LESION_00241,ISIC_0000241,nv,histo,48,female,unknown
+LESION_00242,ISIC_0000242,mel,histo,41,female,unknown
+LESION_00243,ISIC_0000243,nv,histo,23,male,abdomen
+LESION_00244,ISIC_0000244,nv,histo,58,male,chest
+LESION_00245,ISIC_0000245,df,follow_up,39,female,chest
+LESION_00246,ISIC_0000246,nv,histo,53,male,foot
+LESION_00247,ISIC_0000247,nv,histo,57,male,chest
+LESION_00248,ISIC_0000248,bcc,histo,33,male,lower extremity
+LESION_00249,ISIC_0000249,nv,histo,58,female,unknown
+LESION_00250,ISIC_0000250,nv,histo,39,male,foot
+LESION_00251,ISIC_0000251,bkl,follow_up,57,female,chest
+LESION_00252,ISIC_0000252,nv,histo,46,female,lower extremity
+LESION_00253,ISIC_0000253,nv,histo,56,male,back
+LESION_00254,ISIC_0000254,nv,histo,54,male,face
+LESION_00255,ISIC_0000255,akiec,follow_up,45,male,back
+LESION_00256,ISIC_0000256,df,consensus,21,male,back
+LESION_00257,ISIC_0000257,nv,histo,69,female,lower extremity
+LESION_00258,ISIC_0000258,mel,follow_up,35,male,chest
+LESION_00259,ISIC_0000259,nv,histo,26,female,abdomen
+LESION_00260,ISIC_0000260,nv,follow_up,52,male,foot
+LESION_00261,ISIC_0000261,nv,follow_up,76,male,lower extremity
+LESION_00262,ISIC_0000262,nv,histo,39,female,upper extremity
+LESION_00263,ISIC_0000263,nv,histo,58,male,lower extremity
+LESION_00264,ISIC_0000264,bcc,follow_up,30,male,abdomen
+LESION_00265,ISIC_0000265,nv,histo,33,male,upper extremity
+LESION_00266,ISIC_0000266,nv,histo,38,male,back
+LESION_00267,ISIC_0000267,nv,histo,76,female,trunk
+LESION_00268,ISIC_0000268,nv,follow_up,78,female,unknown
+LESION_00269,ISIC_0000269,nv,follow_up,76,male,upper extremity
+LESION_00270,ISIC_0000270,nv,histo,58,female,unknown
+LESION_00271,ISIC_0000271,nv,histo,35,male,foot
+LESION_00272,ISIC_0000272,nv,histo,52,male,lower extremity
+LESION_00273,ISIC_0000273,nv,histo,57,female,trunk
+LESION_00274,ISIC_0000274,nv,histo,27,female,foot
+LESION_00275,ISIC_0000275,nv,follow_up,56,male,foot
+LESION_00276,ISIC_0000276,nv,histo,33,male,trunk
+LESION_00277,ISIC_0000277,nv,histo,58,male,lower extremity
+LESION_00278,ISIC_0000278,nv,histo,60,female,chest
+LESION_00279,ISIC_0000279,nv,histo,53,male,foot
+LESION_00280,ISIC_0000280,nv,follow_up,60,male,trunk
+LESION_00281,ISIC_0000281,nv,consensus,44,male,foot
+LESION_00282,ISIC_0000282,mel,follow_up,39,female,back
+LESION_00283,ISIC_0000283,nv,follow_up,24,female,trunk
+LESION_00284,ISIC_0000284,nv,histo,21,female,trunk
+LESION_00285,ISIC_0000285,nv,histo,20,female,lower extremity
+LESION_00286,ISIC_0000286,nv,consensus,26,female,trunk
+LESION_00287,ISIC_0000287,nv,follow_up,55,male,back
+LESION_00288,ISIC_0000288,bkl,consensus,48,male,face
+LESION_00289,ISIC_0000289,nv,histo,50,male,abdomen
+LESION_00290,ISIC_0000290,nv,follow_up,76,female,trunk
+LESION_00291,ISIC_0000291,vasc,follow_up,25,female,unknown
+LESION_00292,ISIC_0000292,nv,histo,34,female,lower extremity
+LESION_00293,ISIC_0000293,nv,histo,47,male,trunk
+LESION_00294,ISIC_0000294,nv,histo,20,male,back
+LESION_00295,ISIC_0000295,nv,histo,54,female,back
+LESION_00296,ISIC_0000296,nv,follow_up,23,male,unknown
+LESION_00297,ISIC_0000297,bcc,histo,65,female,upper extremity
+LESION_00298,ISIC_0000298,nv,histo,21,female,trunk
+LESION_00299,ISIC_0000299,vasc,histo,38,male,face
+LESION_00300,ISIC_0000300,nv,histo,36,male,unknown
+LESION_00301,ISIC_0000301,mel,consensus,72,female,back
+LESION_00302,ISIC_0000302,nv,histo,77,male,chest
+LESION_00303,ISIC_0000303,nv,histo,21,female,foot
+LESION_00304,ISIC_0000304,nv,histo,51,male,unknown
+LESION_00305,ISIC_0000305,nv,follow_up,46,female,face
+LESION_00306,ISIC_0000306,akiec,histo,47,male,back
+LESION_00307,ISIC_0000307,nv,follow_up,54,female,lower extremity
+LESION_00308,ISIC_0000308,nv,histo,41,female,lower extremity
+LESION_00309,ISIC_0000309,nv,follow_up,74,male,chest
+LESION_00310,ISIC_0000310,nv,histo,78,male,unknown
+LESION_00311,ISIC_0000311,nv,consensus,40,female,abdomen
+LESION_00312,ISIC_0000312,nv,consensus,24,male,unknown
+LESION_00313,ISIC_0000313,bkl,histo,47,male,abdomen
+LESION_00314,ISIC_0000314,nv,histo,72,female,unknown
+LESION_00315,ISIC_0000315,mel,histo,29,male,unknown
+LESION_00316,ISIC_0000316,nv,histo,53,female,trunk
+LESION_00317,ISIC_0000317,nv,histo,28,male,unknown
+LESION_00318,ISIC_0000318,mel,histo,57,female,abdomen
+LESION_00319,ISIC_0000319,nv,follow_up,66,male,unknown
+LESION_00320,ISIC_0000320,nv,histo,43,female,upper extremity
+LESION_00321,ISIC_0000321,bcc,consensus,56,female,chest
+LESION_00322,ISIC_0000322,nv,consensus,47,male,foot
+LESION_00323,ISIC_0000323,bkl,histo,53,male,chest
+LESION_00324,ISIC_0000324,nv,histo,47,female,abdomen
+LESION_00325,ISIC_0000325,nv,follow_up,68,female,chest
+LESION_00326,ISIC_0000326,bcc,histo,27,male,lower extremity
+LESION_00327,ISIC_0000327,nv,histo,44,male,chest
+LESION_00328,ISIC_0000328,mel,histo,29,male,face
+LESION_00329,ISIC_0000329,mel,consensus,50,male,unknown
+LESION_00330,ISIC_0000330,nv,follow_up,57,male,chest
+LESION_00331,ISIC_0000331,mel,histo,44,female,face
+LESION_00332,ISIC_0000332,akiec,histo,61,male,trunk
+LESION_00333,ISIC_0000333,mel,histo,73,male,upper extremity
+LESION_00334,ISIC_0000334,nv,histo,54,male,trunk
+LESION_00335,ISIC_0000335,nv,follow_up,67,male,foot
+LESION_00336,ISIC_0000336,nv,histo,39,female,trunk
+LESION_00337,ISIC_0000337,nv,follow_up,65,male,chest
+LESION_00338,ISIC_0000338,nv,histo,36,female,upper extremity
+LESION_00339,ISIC_0000339,nv,histo,58,male,chest
+LESION_00340,ISIC_0000340,nv,follow_up,24,male,upper extremity
+LESION_00341,ISIC_0000341,nv,histo,71,male,chest
+LESION_00342,ISIC_0000342,nv,histo,61,female,trunk
+LESION_00343,ISIC_0000343,mel,consensus,60,male,unknown
+LESION_00344,ISIC_0000344,nv,histo,46,female,abdomen
+LESION_00345,ISIC_0000345,akiec,histo,49,male,foot
+LESION_00346,ISIC_0000346,nv,follow_up,25,male,lower extremity
+LESION_00347,ISIC_0000347,nv,follow_up,28,male,trunk
+LESION_00348,ISIC_0000348,nv,follow_up,33,female,chest
+LESION_00349,ISIC_0000349,nv,histo,38,male,upper extremity
+LESION_00350,ISIC_0000350,nv,follow_up,68,female,abdomen
+LESION_00351,ISIC_0000351,bkl,histo,36,female,trunk
+LESION_00352,ISIC_0000352,nv,histo,29,female,unknown
+LESION_00353,ISIC_0000353,nv,follow_up,36,female,back
+LESION_00354,ISIC_0000354,akiec,histo,71,male,lower extremity
+LESION_00355,ISIC_0000355,nv,follow_up,61,male,trunk
+LESION_00356,ISIC_0000356,nv,histo,38,female,face
+LESION_00357,ISIC_0000357,nv,histo,71,male,foot
+LESION_00358,ISIC_0000358,mel,follow_up,50,male,back
+LESION_00359,ISIC_0000359,nv,histo,31,female,lower extremity
+LESION_00360,ISIC_0000360,nv,follow_up,25,male,foot
+LESION_00361,ISIC_0000361,bcc,follow_up,31,male,trunk
+LESION_00362,ISIC_0000362,mel,histo,47,male,unknown
+LESION_00363,ISIC_0000363,akiec,histo,64,male,foot
+LESION_00364,ISIC_0000364,nv,histo,24,female,face
+LESION_00365,ISIC_0000365,nv,histo,69,male,trunk
+LESION_00366,ISIC_0000366,nv,consensus,22,female,lower extremity
+LESION_00367,ISIC_0000367,akiec,consensus,79,female,unknown
+LESION_00368,ISIC_0000368,nv,follow_up,41,male,trunk
+LESION_00369,ISIC_0000369,nv,follow_up,25,male,back
+LESION_00370,ISIC_0000370,nv,histo,66,male,back
+LESION_00371,ISIC_0000371,bkl,histo,51,female,foot
+LESION_00372,ISIC_0000372,bkl,histo,78,male,unknown
+LESION_00373,ISIC_0000373,nv,consensus,50,male,unknown
+LESION_00374,ISIC_0000374,nv,histo,79,male,back
+LESION_00375,ISIC_0000375,nv,histo,37,female,unknown
+LESION_00376,ISIC_0000376,nv,follow_up,64,male,upper extremity
+LESION_00377,ISIC_0000377,bkl,histo,52,female,trunk
+LESION_00378,ISIC_0000378,nv,histo,76,male,back
+LESION_00379,ISIC_0000379,nv,histo,26,male,face
+LESION_00380,ISIC_0000380,nv,histo,46,male,back
+LESION_00381,ISIC_0000381,nv,histo,57,male,face
+LESION_00382,ISIC_0000382,nv,histo,29,male,back
+LESION_00383,ISIC_0000383,nv,follow_up,29,male,trunk
+LESION_00384,ISIC_0000384,nv,histo,46,male,face
+LESION_00385,ISIC_0000385,nv,histo,56,female,lower extremity
+LESION_00386,ISIC_0000386,bkl,follow_up,43,male,unknown
+LESION_00387,ISIC_0000387,nv,histo,31,male,lower extremity
+LESION_00388,ISIC_0000388,nv,histo,59,male,back
+LESION_00389,ISIC_0000389,nv,histo,62,male,trunk
+LESION_00390,ISIC_0000390,nv,histo,23,female,trunk
+LESION_00391,ISIC_0000391,bkl,follow_up,20,male,chest
+LESION_00392,ISIC_0000392,bkl,follow_up,40,female,lower extremity
+LESION_00393,ISIC_0000393,mel,follow_up,57,female,upper extremity
+LESION_00394,ISIC_0000394,nv,histo,52,male,upper extremity
+LESION_00395,ISIC_0000395,mel,histo,35,male,unknown
+LESION_00396,ISIC_0000396,bkl,histo,56,male,lower extremity
+LESION_00397,ISIC_0000397,bkl,histo,50,male,back
+LESION_00398,ISIC_0000398,nv,consensus,79,female,foot
+LESION_00399,ISIC_0000399,bkl,follow_up,24,male,face
+LESION_00400,ISIC_0000400,nv,follow_up,70,male,back
+LESION_00401,ISIC_0000401,nv,histo,60,female,chest
+LESION_00402,ISIC_0000402,nv,histo,53,female,face
+LESION_00403,ISIC_0000403,nv,histo,23,female,chest
+LESION_00404,ISIC_0000404,nv,histo,47,male,back
+LESION_00405,ISIC_0000405,nv,follow_up,21,female,foot
+LESION_00406,ISIC_0000406,mel,consensus,62,female,trunk
+LESION_00407,ISIC_0000407,nv,follow_up,22,female,back
+LESION_00408,ISIC_0000408,nv,follow_up,51,female,back
+LESION_00409,ISIC_0000409,nv,histo,27,female,back
+LESION_00410,ISIC_0000410,nv,histo,65,male,unknown
+LESION_00411,ISIC_0000411,nv,follow_up,35,male,chest
+LESION_00412,ISIC_0000412,nv,histo,47,male,lower extremity
+LESION_00413,ISIC_0000413,nv,follow_up,67,male,foot
+LESION_00414,ISIC_0000414,nv,follow_up,49,male,upper extremity
+LESION_00415,ISIC_0000415,nv,histo,40,female,unknown
+LESION_00416,ISIC_0000416,bkl,follow_up,33,male,upper extremity
+LESION_00417,ISIC_0000417,nv,follow_up,41,male,trunk
+LESION_00418,ISIC_0000418,nv,follow_up,60,male,unknown
+LESION_00419,ISIC_0000419,nv,histo,70,male,abdomen
+LESION_00420,ISIC_0000420,nv,consensus,34,female,back
+LESION_00421,ISIC_0000421,nv,histo,52,male,chest
+LESION_00422,ISIC_0000422,nv,histo,49,male,foot
+LESION_00423,ISIC_0000423,nv,histo,40,male,trunk
+LESION_00424,ISIC_0000424,df,histo,66,female,trunk
+LESION_00425,ISIC_0000425,mel,histo,72,female,upper extremity
+LESION_00426,ISIC_0000426,mel,follow_up,28,male,trunk
+LESION_00427,ISIC_0000427,nv,histo,56,male,foot
+LESION_00428,ISIC_0000428,nv,histo,68,female,foot
+LESION_00429,ISIC_0000429,nv,histo,55,male,face
+LESION_00430,ISIC_0000430,nv,consensus,79,male,foot
+LESION_00431,ISIC_0000431,nv,follow_up,72,female,chest
+LESION_00432,ISIC_0000432,nv,follow_up,58,female,trunk
+LESION_00433,ISIC_0000433,bcc,histo,28,male,trunk
+LESION_00434,ISIC_0000434,vasc,follow_up,39,female,unknown
+LESION_00435,ISIC_0000435,nv,histo,25,male,chest
+LESION_00436,ISIC_0000436,nv,histo,76,male,trunk
+LESION_00437,ISIC_0000437,nv,histo,31,male,abdomen
+LESION_00438,ISIC_0000438,bkl,histo,41,female,foot
+LESION_00439,ISIC_0000439,nv,histo,35,female,upper extremity
+LESION_00440,ISIC_0000440,nv,histo,43,male,back
+LESION_00441,ISIC_0000441,nv,consensus,32,female,chest
+LESION_00442,ISIC_0000442,nv,follow_up,59,male,back
+LESION_00443,ISIC_0000443,nv,histo,46,female,back
+LESION_00444,ISIC_0000444,nv,histo,31,female,back
+LESION_00445,ISIC_0000445,mel,histo,66,male,back
+LESION_00446,ISIC_0000446,nv,histo,73,female,abdomen
+LESION_00447,ISIC_0000447,bcc,histo,69,male,unknown
+LESION_00448,ISIC_0000448,nv,consensus,29,male,upper extremity
+LESION_00449,ISIC_0000449,nv,follow_up,40,male,foot
+LESION_00450,ISIC_0000450,vasc,histo,29,female,upper extremity
+LESION_00451,ISIC_0000451,nv,histo,45,male,chest
+LESION_00452,ISIC_0000452,nv,histo,65,male,abdomen
+LESION_00453,ISIC_0000453,nv,histo,75,male,chest
+LESION_00454,ISIC_0000454,nv,histo,29,male,back
+LESION_00455,ISIC_0000455,mel,histo,29,male,chest
+LESION_00456,ISIC_0000456,nv,histo,23,female,chest
+LESION_00457,ISIC_0000457,nv,histo,25,male,unknown
+LESION_00458,ISIC_0000458,nv,follow_up,37,male,chest
+LESION_00459,ISIC_0000459,nv,follow_up,70,male,foot
+LESION_00460,ISIC_0000460,bcc,follow_up,68,female,lower extremity
+LESION_00461,ISIC_0000461,nv,histo,27,female,lower extremity
+LESION_00462,ISIC_0000462,bkl,histo,50,female,unknown
+LESION_00463,ISIC_0000463,nv,histo,50,female,unknown
+LESION_00464,ISIC_0000464,nv,histo,31,female,foot
+LESION_00465,ISIC_0000465,nv,histo,64,female,unknown
+LESION_00466,ISIC_0000466,nv,histo,72,male,unknown
+LESION_00467,ISIC_0000467,mel,histo,38,male,chest
+LESION_00468,ISIC_0000468,bkl,histo,45,male,foot
+LESION_00469,ISIC_0000469,nv,follow_up,33,male,unknown
+LESION_00470,ISIC_0000470,nv,consensus,52,male,abdomen
+LESION_00471,ISIC_0000471,nv,histo,43,male,trunk
+LESION_00472,ISIC_0000472,bkl,follow_up,64,male,lower extremity
+LESION_00473,ISIC_0000473,nv,histo,36,female,face
+LESION_00474,ISIC_0000474,nv,consensus,47,male,foot
+LESION_00475,ISIC_0000475,nv,consensus,61,male,upper extremity
+LESION_00476,ISIC_0000476,nv,consensus,41,male,foot
+LESION_00477,ISIC_0000477,nv,histo,27,female,foot
+LESION_00478,ISIC_0000478,mel,histo,72,female,unknown
+LESION_00479,ISIC_0000479,nv,histo,73,male,unknown
+LESION_00480,ISIC_0000480,bkl,follow_up,33,male,face
+LESION_00481,ISIC_0000481,nv,follow_up,22,male,chest
+LESION_00482,ISIC_0000482,bkl,follow_up,60,female,trunk
+LESION_00483,ISIC_0000483,bcc,follow_up,71,female,foot
+LESION_00484,ISIC_0000484,bcc,histo,46,female,face
+LESION_00485,ISIC_0000485,nv,histo,41,female,chest
+LESION_00486,ISIC_0000486,nv,histo,40,male,face
+LESION_00487,ISIC_0000487,mel,histo,44,female,trunk
+LESION_00488,ISIC_0000488,nv,follow_up,53,female,unknown
+LESION_00489,ISIC_0000489,nv,histo,66,male,foot
+LESION_00490,ISIC_0000490,bkl,histo,70,female,foot
+LESION_00491,ISIC_0000491,mel,follow_up,40,female,back
+LESION_00492,ISIC_0000492,nv,consensus,30,female,unknown
+LESION_00493,ISIC_0000493,bcc,follow_up,73,female,upper extremity
+LESION_00494,ISIC_0000494,nv,histo,38,female,face
+LESION_00495,ISIC_0000495,bcc,follow_up,69,female,abdomen
+LESION_00496,ISIC_0000496,nv,histo,75,female,chest
+LESION_00497,ISIC_0000497,mel,histo,75,female,unknown
+LESION_00498,ISIC_0000498,nv,follow_up,46,male,abdomen
+LESION_00499,ISIC_0000499,df,histo,21,female,trunk
+LESION_00500,ISIC_0000500,bcc,histo,38,male,abdomen
+LESION_00501,ISIC_0000501,nv,histo,56,female,upper extremity
+LESION_00502,ISIC_0000502,nv,histo,78,male,unknown
+LESION_00503,ISIC_0000503,nv,histo,44,male,unknown
+LESION_00504,ISIC_0000504,mel,histo,41,male,upper extremity
+LESION_00505,ISIC_0000505,mel,histo,44,male,lower extremity
+LESION_00506,ISIC_0000506,nv,histo,49,male,trunk
+LESION_00507,ISIC_0000507,nv,histo,70,female,chest
+LESION_00508,ISIC_0000508,nv,histo,23,female,abdomen
+LESION_00509,ISIC_0000509,nv,follow_up,65,male,upper extremity
+LESION_00510,ISIC_0000510,nv,histo,66,female,chest
+LESION_00511,ISIC_0000511,nv,follow_up,75,male,abdomen
+LESION_00512,ISIC_0000512,mel,histo,42,female,trunk
+LESION_00513,ISIC_0000513,nv,histo,79,female,unknown
+LESION_00514,ISIC_0000514,nv,histo,31,female,upper extremity
+LESION_00515,ISIC_0000515,mel,follow_up,40,male,unknown
+LESION_00516,ISIC_0000516,nv,histo,34,male,trunk
+LESION_00517,ISIC_0000517,mel,histo,39,female,chest
+LESION_00518,ISIC_0000518,mel,follow_up,56,male,lower extremity
+LESION_00519,ISIC_0000519,nv,histo,70,male,chest
+LESION_00520,ISIC_0000520,bkl,histo,73,female,lower extremity
+LESION_00521,ISIC_0000521,nv,histo,49,male,upper extremity
+LESION_00522,ISIC_0000522,nv,follow_up,27,male,chest
+LESION_00523,ISIC_0000523,nv,follow_up,69,male,unknown
+LESION_00524,ISIC_0000524,nv,follow_up,40,male,abdomen
+LESION_00525,ISIC_0000525,bkl,histo,28,male,trunk
+LESION_00526,ISIC_0000526,bkl,histo,44,male,lower extremity
+LESION_00527,ISIC_0000527,nv,histo,20,male,unknown
+LESION_00528,ISIC_0000528,nv,histo,49,female,chest
+LESION_00529,ISIC_0000529,nv,histo,65,male,chest
+LESION_00530,ISIC_0000530,nv,histo,45,male,upper extremity
+LESION_00531,ISIC_0000531,nv,histo,77,female,back
+LESION_00532,ISIC_0000532,bkl,histo,50,male,chest
+LESION_00533,ISIC_0000533,nv,histo,32,female,foot
+LESION_00534,ISIC_0000534,nv,histo,74,male,upper extremity
+LESION_00535,ISIC_0000535,nv,histo,55,male,face
+LESION_00536,ISIC_0000536,nv,follow_up,30,male,back
+LESION_00537,ISIC_0000537,nv,histo,57,female,lower extremity
+LESION_00538,ISIC_0000538,nv,histo,54,female,abdomen
+LESION_00539,ISIC_0000539,nv,follow_up,59,female,upper extremity
+LESION_00540,ISIC_0000540,nv,follow_up,63,male,abdomen
+LESION_00541,ISIC_0000541,bkl,follow_up,46,female,abdomen
+LESION_00542,ISIC_0000542,nv,histo,57,male,lower extremity
+LESION_00543,ISIC_0000543,bcc,histo,36,female,abdomen
+LESION_00544,ISIC_0000544,nv,histo,33,male,chest
+LESION_00545,ISIC_0000545,nv,histo,52,female,back
+LESION_00546,ISIC_0000546,akiec,histo,22,female,chest
+LESION_00547,ISIC_0000547,nv,histo,77,female,chest
+LESION_00548,ISIC_0000548,bkl,histo,62,female,face
+LESION_00549,ISIC_0000549,nv,histo,69,male,chest
+LESION_00550,ISIC_0000550,bcc,histo,46,female,trunk
+LESION_00551,ISIC_0000551,nv,histo,49,male,back
+LESION_00552,ISIC_0000552,nv,histo,43,female,back
+LESION_00553,ISIC_0000553,nv,histo,50,female,abdomen
+LESION_00554,ISIC_0000554,vasc,histo,71,female,face
+LESION_00555,ISIC_0000555,nv,histo,63,female,trunk
+LESION_00556,ISIC_0000556,nv,histo,37,male,chest
+LESION_00557,ISIC_0000557,bkl,follow_up,57,male,foot
+LESION_00558,ISIC_0000558,nv,histo,32,female,face
+LESION_00559,ISIC_0000559,nv,histo,27,female,unknown
+LESION_00560,ISIC_0000560,nv,follow_up,63,male,trunk
+LESION_00561,ISIC_0000561,nv,histo,43,male,back
+LESION_00562,ISIC_0000562,mel,histo,48,male,foot
+LESION_00563,ISIC_0000563,bkl,consensus,41,female,back
+LESION_00564,ISIC_0000564,nv,histo,57,female,face
+LESION_00565,ISIC_0000565,nv,follow_up,22,male,back
+LESION_00566,ISIC_0000566,bkl,histo,66,female,chest
+LESION_00567,ISIC_0000567,nv,follow_up,39,male,foot
+LESION_00568,ISIC_0000568,nv,histo,32,male,abdomen
+LESION_00569,ISIC_0000569,nv,histo,68,male,back
+LESION_00570,ISIC_0000570,mel,follow_up,52,male,upper extremity
+LESION_00571,ISIC_0000571,bkl,follow_up,75,female,unknown
+LESION_00572,ISIC_0000572,nv,histo,34,male,lower extremity
+LESION_00573,ISIC_0000573,akiec,follow_up,45,female,abdomen
+LESION_00574,ISIC_0000574,nv,histo,52,male,unknown
+LESION_00575,ISIC_0000575,bcc,histo,73,female,back
+LESION_00576,ISIC_0000576,mel,follow_up,35,female,lower extremity
+LESION_00577,ISIC_0000577,bcc,histo,25,female,chest
+LESION_00578,ISIC_0000578,nv,consensus,27,male,unknown
+LESION_00579,ISIC_0000579,nv,histo,51,male,face
+LESION_00580,ISIC_0000580,nv,histo,66,male,upper extremity
+LESION_00581,ISIC_0000581,nv,follow_up,39,female,unknown
+LESION_00582,ISIC_0000582,nv,histo,21,female,trunk
+LESION_00583,ISIC_0000583,bcc,histo,78,female,upper extremity
+LESION_00584,ISIC_0000584,nv,histo,31,female,chest
+LESION_00585,ISIC_0000585,nv,histo,72,female,trunk
+LESION_00586,ISIC_0000586,nv,histo,57,female,face
+LESION_00587,ISIC_0000587,nv,histo,30,male,unknown
+LESION_00588,ISIC_0000588,nv,follow_up,53,female,upper extremity
+LESION_00589,ISIC_0000589,mel,follow_up,30,male,foot
+LESION_00590,ISIC_0000590,nv,follow_up,59,male,face
+LESION_00591,ISIC_0000591,mel,histo,49,female,back
+LESION_00592,ISIC_0000592,nv,histo,55,male,abdomen
+LESION_00593,ISIC_0000593,nv,follow_up,21,male,face
+LESION_00594,ISIC_0000594,bcc,histo,38,male,chest
+LESION_00595,ISIC_0000595,bcc,histo,72,male,face
+LESION_00596,ISIC_0000596,bcc,follow_up,27,male,face
+LESION_00597,ISIC_0000597,nv,histo,49,female,trunk
+LESION_00598,ISIC_0000598,nv,follow_up,30,female,trunk
+LESION_00599,ISIC_0000599,nv,histo,27,male,lower extremity
+LESION_00600,ISIC_0000600,nv,histo,68,male,lower extremity
+LESION_00601,ISIC_0000601,nv,consensus,64,male,face
+LESION_00602,ISIC_0000602,bkl,histo,42,male,trunk
+LESION_00603,ISIC_0000603,bkl,histo,57,male,abdomen
+LESION_00604,ISIC_0000604,nv,follow_up,46,male,abdomen
+LESION_00605,ISIC_0000605,vasc,histo,26,male,trunk
+LESION_00606,ISIC_0000606,mel,histo,58,female,lower extremity
+LESION_00607,ISIC_0000607,nv,histo,52,male,chest
+LESION_00608,ISIC_0000608,nv,follow_up,64,male,chest
+LESION_00609,ISIC_0000609,nv,follow_up,57,male,unknown
+LESION_00610,ISIC_0000610,bkl,follow_up,72,male,foot
+LESION_00611,ISIC_0000611,bkl,follow_up,27,female,back
+LESION_00612,ISIC_0000612,nv,histo,43,male,trunk
+LESION_00613,ISIC_0000613,nv,follow_up,57,female,lower extremity
+LESION_00614,ISIC_0000614,df,follow_up,48,male,foot
+LESION_00615,ISIC_0000615,bkl,histo,39,female,back
+LESION_00616,ISIC_0000616,nv,consensus,53,male,upper extremity
+LESION_00617,ISIC_0000617,nv,histo,46,female,back
+LESION_00618,ISIC_0000618,mel,histo,37,male,lower extremity
+LESION_00619,ISIC_0000619,bcc,histo,31,male,back
+LESION_00620,ISIC_0000620,bkl,follow_up,78,female,foot
+LESION_00621,ISIC_0000621,nv,follow_up,68,female,upper extremity
+LESION_00622,ISIC_0000622,nv,histo,43,male,abdomen
+LESION_00623,ISIC_0000623,nv,consensus,45,male,foot
+LESION_00624,ISIC_0000624,nv,follow_up,46,female,lower extremity
+LESION_00625,ISIC_0000625,nv,follow_up,45,female,unknown
+LESION_00626,ISIC_0000626,nv,histo,33,male,lower extremity
+LESION_00627,ISIC_0000627,nv,follow_up,44,male,lower extremity
+LESION_00628,ISIC_0000628,nv,histo,68,male,trunk
+LESION_00629,ISIC_0000629,bcc,histo,48,female,back
+LESION_00630,ISIC_0000630,bkl,follow_up,79,female,face
+LESION_00631,ISIC_0000631,bkl,histo,48,female,unknown
+LESION_00632,ISIC_0000632,nv,histo,78,female,trunk
+LESION_00633,ISIC_0000633,nv,consensus,44,male,foot
+LESION_00634,ISIC_0000634,nv,follow_up,63,male,chest
+LESION_00635,ISIC_0000635,bkl,histo,25,female,trunk
+LESION_00636,ISIC_0000636,mel,histo,67,male,chest
+LESION_00637,ISIC_0000637,akiec,histo,20,male,face
+LESION_00638,ISIC_0000638,bkl,histo,30,male,upper extremity
+LESION_00639,ISIC_0000639,nv,follow_up,63,female,face
+LESION_00640,ISIC_0000640,nv,histo,76,male,foot
+LESION_00641,ISIC_0000641,nv,histo,36,female,face
+LESION_00642,ISIC_0000642,nv,histo,72,male,upper extremity
+LESION_00643,ISIC_0000643,nv,histo,69,male,face
+LESION_00644,ISIC_0000644,nv,histo,71,female,foot
+LESION_00645,ISIC_0000645,nv,histo,71,female,foot
+LESION_00646,ISIC_0000646,nv,histo,46,female,face
+LESION_00647,ISIC_0000647,mel,follow_up,70,male,foot
+LESION_00648,ISIC_0000648,nv,histo,21,male,chest
+LESION_00649,ISIC_0000649,nv,follow_up,32,female,trunk
+LESION_00650,ISIC_0000650,nv,histo,65,female,back
+LESION_00651,ISIC_0000651,nv,consensus,71,female,upper extremity
+LESION_00652,ISIC_0000652,akiec,histo,72,male,back
+LESION_00653,ISIC_0000653,mel,histo,52,female,foot
+LESION_00654,ISIC_0000654,mel,histo,38,female,back
+LESION_00655,ISIC_0000655,nv,histo,75,male,face
+LESION_00656,ISIC_0000656,nv,follow_up,33,female,foot
+LESION_00657,ISIC_0000657,nv,histo,29,female,abdomen
+LESION_00658,ISIC_0000658,mel,follow_up,29,male,unknown
+LESION_00659,ISIC_0000659,bkl,histo,38,male,trunk
+LESION_00660,ISIC_0000660,nv,histo,23,female,unknown
+LESION_00661,ISIC_0000661,mel,histo,59,female,chest
+LESION_00662,ISIC_0000662,vasc,histo,44,male,foot
+LESION_00663,ISIC_0000663,nv,follow_up,47,male,lower extremity
+LESION_00664,ISIC_0000664,nv,histo,67,female,unknown
+LESION_00665,ISIC_0000665,nv,consensus,24,male,unknown
+LESION_00666,ISIC_0000666,nv,follow_up,51,male,chest
+LESION_00667,ISIC_0000667,nv,histo,51,female,unknown
+LESION_00668,ISIC_0000668,nv,consensus,43,male,upper extremity
+LESION_00669,ISIC_0000669,nv,histo,65,female,face
+LESION_00670,ISIC_0000670,nv,histo,68,female,upper extremity
+LESION_00671,ISIC_0000671,nv,histo,54,male,face
+LESION_00672,ISIC_0000672,nv,histo,30,female,unknown
+LESION_00673,ISIC_0000673,bcc,follow_up,52,female,unknown
+LESION_00674,ISIC_0000674,nv,follow_up,41,female,upper extremity
+LESION_00675,ISIC_0000675,nv,follow_up,54,male,foot
+LESION_00676,ISIC_0000676,nv,histo,55,female,trunk
+LESION_00677,ISIC_0000677,nv,consensus,35,male,upper extremity
+LESION_00678,ISIC_0000678,nv,histo,29,female,lower extremity
+LESION_00679,ISIC_0000679,nv,follow_up,64,female,abdomen
+LESION_00680,ISIC_0000680,nv,follow_up,72,female,unknown
+LESION_00681,ISIC_0000681,nv,histo,35,male,face
+LESION_00682,ISIC_0000682,nv,histo,71,male,abdomen
+LESION_00683,ISIC_0000683,nv,histo,54,male,upper extremity
+LESION_00684,ISIC_0000684,nv,histo,70,male,lower extremity
+LESION_00685,ISIC_0000685,nv,histo,47,male,trunk
+LESION_00686,ISIC_0000686,nv,histo,49,male,foot
+LESION_00687,ISIC_0000687,nv,histo,69,female,chest
+LESION_00688,ISIC_0000688,nv,consensus,49,female,abdomen
+LESION_00689,ISIC_0000689,nv,histo,70,female,lower extremity
+LESION_00690,ISIC_0000690,bkl,histo,74,female,foot
+LESION_00691,ISIC_0000691,df,histo,59,female,back
+LESION_00692,ISIC_0000692,nv,histo,43,male,foot
+LESION_00693,ISIC_0000693,nv,histo,77,female,lower extremity
+LESION_00694,ISIC_0000694,vasc,follow_up,60,female,unknown
+LESION_00695,ISIC_0000695,mel,histo,35,male,trunk
+LESION_00696,ISIC_0000696,bkl,follow_up,45,female,trunk
+LESION_00697,ISIC_0000697,bcc,histo,28,male,abdomen
+LESION_00698,ISIC_0000698,nv,histo,50,female,upper extremity
+LESION_00699,ISIC_0000699,nv,histo,34,male,chest
+LESION_00700,ISIC_0000700,nv,follow_up,77,male,upper extremity
+LESION_00701,ISIC_0000701,mel,histo,44,female,unknown
+LESION_00702,ISIC_0000702,akiec,histo,43,female,abdomen
+LESION_00703,ISIC_0000703,akiec,histo,38,male,unknown
+LESION_00704,ISIC_0000704,bkl,follow_up,31,male,abdomen
+LESION_00705,ISIC_0000705,nv,histo,51,female,upper extremity
+LESION_00706,ISIC_0000706,bkl,consensus,33,male,lower extremity
+LESION_00707,ISIC_0000707,bcc,histo,24,female,upper extremity
+LESION_00708,ISIC_0000708,nv,histo,60,male,chest
+LESION_00709,ISIC_0000709,nv,consensus,66,female,face
+LESION_00710,ISIC_0000710,bkl,follow_up,25,female,upper extremity
+LESION_00711,ISIC_0000711,nv,follow_up,42,female,unknown
+LESION_00712,ISIC_0000712,nv,consensus,36,male,upper extremity
+LESION_00713,ISIC_0000713,nv,histo,35,male,chest
+LESION_00714,ISIC_0000714,nv,histo,43,female,chest
+LESION_00715,ISIC_0000715,nv,histo,49,male,chest
+LESION_00716,ISIC_0000716,akiec,histo,68,female,back
+LESION_00717,ISIC_0000717,bkl,follow_up,37,female,upper extremity
+LESION_00718,ISIC_0000718,vasc,follow_up,75,male,trunk
+LESION_00719,ISIC_0000719,nv,histo,21,female,face
+LESION_00720,ISIC_0000720,nv,follow_up,33,male,back
+LESION_00721,ISIC_0000721,nv,follow_up,69,female,upper extremity
+LESION_00722,ISIC_0000722,mel,follow_up,29,female,face
+LESION_00723,ISIC_0000723,nv,histo,56,male,lower extremity
+LESION_00724,ISIC_0000724,nv,histo,57,male,abdomen
+LESION_00725,ISIC_0000725,nv,histo,72,female,lower extremity
+LESION_00726,ISIC_0000726,bkl,consensus,22,male,abdomen
+LESION_00727,ISIC_0000727,nv,histo,65,female,lower extremity
+LESION_00728,ISIC_0000728,nv,follow_up,48,male,back
+LESION_00729,ISIC_0000729,bkl,histo,54,female,abdomen
+LESION_00730,ISIC_0000730,nv,histo,47,male,upper extremity
+LESION_00731,ISIC_0000731,nv,histo,54,male,unknown
+LESION_00732,ISIC_0000732,bkl,histo,20,male,unknown
+LESION_00733,ISIC_0000733,bkl,histo,23,female,back
+LESION_00734,ISIC_0000734,nv,follow_up,36,female,face
+LESION_00735,ISIC_0000735,nv,histo,41,female,abdomen
+LESION_00736,ISIC_0000736,nv,histo,71,male,unknown
+LESION_00737,ISIC_0000737,nv,histo,76,male,lower extremity
+LESION_00738,ISIC_0000738,vasc,consensus,68,male,lower extremity
+LESION_00739,ISIC_0000739,mel,histo,30,female,chest
+LESION_00740,ISIC_0000740,nv,histo,25,male,face
+LESION_00741,ISIC_0000741,akiec,histo,63,female,foot
+LESION_00742,ISIC_0000742,bkl,histo,25,male,chest
+LESION_00743,ISIC_0000743,nv,histo,49,female,back
+LESION_00744,ISIC_0000744,nv,histo,30,male,lower extremity
+LESION_00745,ISIC_0000745,bkl,histo,36,male,lower extremity
+LESION_00746,ISIC_0000746,nv,follow_up,28,male,trunk
+LESION_00747,ISIC_0000747,nv,follow_up,71,female,lower extremity
+LESION_00748,ISIC_0000748,bcc,histo,43,female,chest
+LESION_00749,ISIC_0000749,mel,follow_up,38,male,abdomen
+LESION_00750,ISIC_0000750,mel,follow_up,25,female,trunk
+LESION_00751,ISIC_0000751,nv,histo,44,female,upper extremity
+LESION_00752,ISIC_0000752,nv,histo,29,female,unknown
+LESION_00753,ISIC_0000753,nv,follow_up,52,male,lower extremity
+LESION_00754,ISIC_0000754,nv,consensus,26,male,abdomen
+LESION_00755,ISIC_0000755,nv,follow_up,36,female,foot
+LESION_00756,ISIC_0000756,nv,histo,79,female,unknown
+LESION_00757,ISIC_0000757,mel,histo,43,male,unknown
+LESION_00758,ISIC_0000758,vasc,follow_up,53,male,unknown
+LESION_00759,ISIC_0000759,nv,histo,71,female,foot
+LESION_00760,ISIC_0000760,nv,follow_up,27,female,unknown
+LESION_00761,ISIC_0000761,nv,consensus,20,female,unknown
+LESION_00762,ISIC_0000762,nv,consensus,32,female,chest
+LESION_00763,ISIC_0000763,nv,histo,21,male,trunk
+LESION_00764,ISIC_0000764,nv,histo,48,female,upper extremity
+LESION_00765,ISIC_0000765,akiec,histo,44,male,lower extremity
+LESION_00766,ISIC_0000766,nv,consensus,39,male,chest
+LESION_00767,ISIC_0000767,nv,histo,25,male,trunk
+LESION_00768,ISIC_0000768,mel,histo,60,male,foot
+LESION_00769,ISIC_0000769,nv,histo,71,female,chest
+LESION_00770,ISIC_0000770,nv,histo,64,male,face
+LESION_00771,ISIC_0000771,bcc,follow_up,61,female,trunk
+LESION_00772,ISIC_0000772,akiec,follow_up,46,male,trunk
+LESION_00773,ISIC_0000773,nv,follow_up,34,female,back
+LESION_00774,ISIC_0000774,mel,histo,44,female,abdomen
+LESION_00775,ISIC_0000775,nv,histo,28,male,abdomen
+LESION_00776,ISIC_0000776,nv,follow_up,41,male,face
+LESION_00777,ISIC_0000777,nv,histo,50,female,trunk
+LESION_00778,ISIC_0000778,mel,consensus,22,female,unknown
+LESION_00779,ISIC_0000779,nv,histo,54,female,face
+LESION_00780,ISIC_0000780,nv,histo,70,male,unknown
+LESION_00781,ISIC_0000781,nv,histo,43,female,back
+LESION_00782,ISIC_0000782,nv,consensus,73,female,lower extremity
+LESION_00783,ISIC_0000783,nv,histo,38,female,face
+LESION_00784,ISIC_0000784,nv,histo,25,female,chest
+LESION_00785,ISIC_0000785,bcc,histo,32,male,trunk
+LESION_00786,ISIC_0000786,nv,consensus,54,male,chest
+LESION_00787,ISIC_0000787,mel,histo,41,female,trunk
+LESION_00788,ISIC_0000788,nv,histo,62,male,foot
+LESION_00789,ISIC_0000789,mel,histo,75,male,lower extremity
+LESION_00790,ISIC_0000790,nv,histo,41,female,abdomen
+LESION_00791,ISIC_0000791,nv,follow_up,45,female,upper extremity
+LESION_00792,ISIC_0000792,nv,follow_up,48,female,chest
+LESION_00793,ISIC_0000793,nv,histo,24,male,upper extremity
+LESION_00794,ISIC_0000794,mel,histo,57,male,upper extremity
+LESION_00795,ISIC_0000795,nv,histo,48,female,chest
+LESION_00796,ISIC_0000796,nv,histo,29,male,face
+LESION_00797,ISIC_0000797,mel,follow_up,39,male,foot
+LESION_00798,ISIC_0000798,nv,histo,26,female,chest
+LESION_00799,ISIC_0000799,nv,histo,38,female,chest
+LESION_00800,ISIC_0000800,nv,follow_up,78,female,lower extremity
+LESION_00801,ISIC_0000801,nv,follow_up,62,female,face
+LESION_00802,ISIC_0000802,bcc,consensus,44,female,lower extremity
+LESION_00803,ISIC_0000803,nv,histo,63,female,face
+LESION_00804,ISIC_0000804,vasc,histo,76,male,chest
+LESION_00805,ISIC_0000805,nv,consensus,55,male,lower extremity
+LESION_00806,ISIC_0000806,bcc,histo,56,male,face
+LESION_00807,ISIC_0000807,bkl,histo,51,male,upper extremity
+LESION_00808,ISIC_0000808,nv,follow_up,40,female,trunk
+LESION_00809,ISIC_0000809,akiec,follow_up,55,female,lower extremity
+LESION_00810,ISIC_0000810,nv,histo,32,female,lower extremity
+LESION_00811,ISIC_0000811,nv,histo,66,female,unknown
+LESION_00812,ISIC_0000812,nv,follow_up,29,male,foot
+LESION_00813,ISIC_0000813,nv,follow_up,54,male,unknown
+LESION_00814,ISIC_0000814,nv,histo,22,male,face
+LESION_00815,ISIC_0000815,nv,follow_up,59,male,unknown
+LESION_00816,ISIC_0000816,nv,histo,70,female,face
+LESION_00817,ISIC_0000817,nv,histo,63,female,back
+LESION_00818,ISIC_0000818,nv,follow_up,41,male,upper extremity
+LESION_00819,ISIC_0000819,nv,histo,71,female,unknown
+LESION_00820,ISIC_0000820,nv,follow_up,27,female,trunk
+LESION_00821,ISIC_0000821,bkl,histo,40,female,abdomen
+LESION_00822,ISIC_0000822,vasc,consensus,49,female,unknown
+LESION_00823,ISIC_0000823,nv,histo,32,female,chest
+LESION_00824,ISIC_0000824,nv,histo,66,male,trunk
+LESION_00825,ISIC_0000825,nv,consensus,49,female,lower extremity
+LESION_00826,ISIC_0000826,bkl,histo,75,female,upper extremity
+LESION_00827,ISIC_0000827,nv,histo,23,male,face
+LESION_00828,ISIC_0000828,nv,consensus,73,male,foot
+LESION_00829,ISIC_0000829,nv,consensus,21,male,lower extremity
+LESION_00830,ISIC_0000830,mel,histo,41,female,chest
+LESION_00831,ISIC_0000831,bcc,histo,54,female,face
+LESION_00832,ISIC_0000832,nv,histo,25,female,chest
+LESION_00833,ISIC_0000833,nv,follow_up,26,male,back
+LESION_00834,ISIC_0000834,nv,histo,41,male,unknown
+LESION_00835,ISIC_0000835,nv,histo,36,male,trunk
+LESION_00836,ISIC_0000836,bkl,histo,28,female,foot
+LESION_00837,ISIC_0000837,nv,histo,37,female,face
+LESION_00838,ISIC_0000838,nv,follow_up,30,female,abdomen
+LESION_00839,ISIC_0000839,nv,histo,48,male,abdomen
+LESION_00840,ISIC_0000840,nv,histo,67,male,lower extremity
+LESION_00841,ISIC_0000841,mel,histo,39,male,chest
+LESION_00842,ISIC_0000842,nv,follow_up,75,male,chest
+LESION_00843,ISIC_0000843,nv,histo,76,male,unknown
+LESION_00844,ISIC_0000844,akiec,follow_up,59,female,unknown
+LESION_00845,ISIC_0000845,nv,histo,54,male,abdomen
+LESION_00846,ISIC_0000846,bkl,follow_up,78,male,foot
+LESION_00847,ISIC_0000847,nv,histo,50,male,trunk
+LESION_00848,ISIC_0000848,mel,histo,24,male,foot
+LESION_00849,ISIC_0000849,nv,follow_up,44,male,face
+LESION_00850,ISIC_0000850,bcc,histo,45,female,back
+LESION_00851,ISIC_0000851,nv,histo,60,female,abdomen
+LESION_00852,ISIC_0000852,nv,histo,52,female,face
+LESION_00853,ISIC_0000853,bkl,histo,64,female,upper extremity
+LESION_00854,ISIC_0000854,mel,follow_up,53,female,upper extremity
+LESION_00855,ISIC_0000855,nv,histo,28,male,face
+LESION_00856,ISIC_0000856,nv,histo,42,female,lower extremity
+LESION_00857,ISIC_0000857,nv,consensus,29,male,upper extremity
+LESION_00858,ISIC_0000858,nv,histo,72,female,foot
+LESION_00859,ISIC_0000859,nv,follow_up,68,male,abdomen
+LESION_00860,ISIC_0000860,akiec,histo,79,male,foot
+LESION_00861,ISIC_0000861,nv,histo,22,female,unknown
+LESION_00862,ISIC_0000862,nv,histo,37,male,back
+LESION_00863,ISIC_0000863,bcc,follow_up,62,female,unknown
+LESION_00864,ISIC_0000864,mel,histo,26,male,foot
+LESION_00865,ISIC_0000865,nv,histo,28,male,lower extremity
+LESION_00866,ISIC_0000866,nv,histo,43,male,abdomen
+LESION_00867,ISIC_0000867,vasc,consensus,31,female,back
+LESION_00868,ISIC_0000868,nv,histo,27,female,face
+LESION_00869,ISIC_0000869,nv,consensus,63,female,foot
+LESION_00870,ISIC_0000870,nv,follow_up,73,female,unknown
+LESION_00871,ISIC_0000871,nv,follow_up,42,male,back
+LESION_00872,ISIC_0000872,nv,follow_up,39,male,lower extremity
+LESION_00873,ISIC_0000873,nv,histo,57,male,foot
+LESION_00874,ISIC_0000874,bcc,histo,69,male,unknown
+LESION_00875,ISIC_0000875,bkl,follow_up,59,male,abdomen
+LESION_00876,ISIC_0000876,nv,follow_up,29,male,trunk
+LESION_00877,ISIC_0000877,nv,histo,39,male,abdomen
+LESION_00878,ISIC_0000878,nv,histo,34,male,back
+LESION_00879,ISIC_0000879,nv,histo,76,male,back
+LESION_00880,ISIC_0000880,nv,consensus,38,female,back
+LESION_00881,ISIC_0000881,bkl,follow_up,39,female,back
+LESION_00882,ISIC_0000882,nv,histo,77,female,chest
+LESION_00883,ISIC_0000883,nv,histo,33,male,unknown
+LESION_00884,ISIC_0000884,nv,histo,32,female,unknown
+LESION_00885,ISIC_0000885,nv,histo,63,male,face
+LESION_00886,ISIC_0000886,nv,follow_up,53,male,chest
+LESION_00887,ISIC_0000887,bcc,follow_up,47,female,foot
+LESION_00888,ISIC_0000888,bcc,histo,28,male,unknown
+LESION_00889,ISIC_0000889,nv,histo,76,male,upper extremity
+LESION_00890,ISIC_0000890,bkl,consensus,20,female,face
+LESION_00891,ISIC_0000891,nv,histo,26,female,unknown
+LESION_00892,ISIC_0000892,akiec,histo,24,female,unknown
+LESION_00893,ISIC_0000893,nv,histo,44,female,lower extremity
+LESION_00894,ISIC_0000894,nv,histo,40,female,unknown
+LESION_00895,ISIC_0000895,bkl,histo,38,female,chest
+LESION_00896,ISIC_0000896,nv,histo,64,female,chest
+LESION_00897,ISIC_0000897,bkl,histo,63,male,trunk
+LESION_00898,ISIC_0000898,nv,follow_up,32,male,face
+LESION_00899,ISIC_0000899,nv,histo,42,male,unknown
+LESION_00900,ISIC_0000900,nv,histo,54,female,upper extremity
+LESION_00901,ISIC_0000901,mel,histo,46,male,face
+LESION_00902,ISIC_0000902,nv,histo,54,male,abdomen
+LESION_00903,ISIC_0000903,nv,follow_up,69,female,face
+LESION_00904,ISIC_0000904,nv,histo,41,male,chest
+LESION_00905,ISIC_0000905,nv,histo,20,male,lower extremity
+LESION_00906,ISIC_0000906,nv,histo,49,female,lower extremity
+LESION_00907,ISIC_0000907,nv,follow_up,32,male,abdomen
+LESION_00908,ISIC_0000908,nv,follow_up,70,female,lower extremity
+LESION_00909,ISIC_0000909,vasc,histo,41,male,back
+LESION_00910,ISIC_0000910,nv,histo,48,female,foot
+LESION_00911,ISIC_0000911,nv,histo,44,male,trunk
+LESION_00912,ISIC_0000912,vasc,follow_up,43,male,back
+LESION_00913,ISIC_0000913,nv,histo,52,female,face
+LESION_00914,ISIC_0000914,nv,follow_up,21,female,face
+LESION_00915,ISIC_0000915,nv,histo,73,female,trunk
+LESION_00916,ISIC_0000916,nv,consensus,38,male,abdomen
+LESION_00917,ISIC_0000917,bcc,follow_up,32,male,back
+LESION_00918,ISIC_0000918,nv,histo,66,male,lower extremity
+LESION_00919,ISIC_0000919,nv,follow_up,58,male,trunk
+LESION_00920,ISIC_0000920,mel,follow_up,50,male,face
+LESION_00921,ISIC_0000921,nv,histo,69,male,back
+LESION_00922,ISIC_0000922,nv,histo,35,male,foot
+LESION_00923,ISIC_0000923,nv,follow_up,27,female,chest
+LESION_00924,ISIC_0000924,nv,histo,66,male,foot
+LESION_00925,ISIC_0000925,nv,follow_up,28,male,trunk
+LESION_00926,ISIC_0000926,bcc,histo,45,female,unknown
+LESION_00927,ISIC_0000927,nv,histo,25,male,lower extremity
+LESION_00928,ISIC_0000928,nv,follow_up,48,female,chest
+LESION_00929,ISIC_0000929,nv,histo,29,female,back
+LESION_00930,ISIC_0000930,mel,follow_up,26,male,lower extremity
+LESION_00931,ISIC_0000931,mel,consensus,42,male,foot
+LESION_00932,ISIC_0000932,nv,consensus,51,male,abdomen
+LESION_00933,ISIC_0000933,nv,histo,29,female,trunk
+LESION_00934,ISIC_0000934,bkl,histo,50,female,back
+LESION_00935,ISIC_0000935,nv,histo,27,female,lower extremity
+LESION_00936,ISIC_0000936,nv,histo,69,male,back
+LESION_00937,ISIC_0000937,nv,histo,24,male,chest
+LESION_00938,ISIC_0000938,mel,histo,78,male,lower extremity
+LESION_00939,ISIC_0000939,bcc,follow_up,74,male,chest
+LESION_00940,ISIC_0000940,nv,follow_up,42,male,trunk
+LESION_00941,ISIC_0000941,nv,histo,63,male,face
+LESION_00942,ISIC_0000942,nv,histo,35,female,chest
+LESION_00943,ISIC_0000943,mel,histo,37,male,unknown
+LESION_00944,ISIC_0000944,nv,histo,22,male,upper extremity
+LESION_00945,ISIC_0000945,nv,follow_up,64,male,upper extremity
+LESION_00946,ISIC_0000946,nv,histo,44,male,lower extremity
+LESION_00947,ISIC_0000947,nv,histo,61,female,trunk
+LESION_00948,ISIC_0000948,nv,histo,36,male,upper extremity
+LESION_00949,ISIC_0000949,nv,histo,41,male,unknown
+LESION_00950,ISIC_0000950,nv,follow_up,23,male,face
+LESION_00951,ISIC_0000951,nv,histo,33,female,lower extremity
+LESION_00952,ISIC_0000952,mel,follow_up,75,male,abdomen
+LESION_00953,ISIC_0000953,mel,histo,36,male,face
+LESION_00954,ISIC_0000954,nv,histo,68,male,unknown
+LESION_00955,ISIC_0000955,nv,follow_up,26,female,unknown
+LESION_00956,ISIC_0000956,bkl,histo,66,male,abdomen
+LESION_00957,ISIC_0000957,bkl,histo,51,female,upper extremity
+LESION_00958,ISIC_0000958,vasc,histo,22,male,trunk
+LESION_00959,ISIC_0000959,nv,follow_up,49,female,lower extremity
+LESION_00960,ISIC_0000960,bcc,consensus,46,female,trunk
+LESION_00961,ISIC_0000961,mel,histo,61,female,lower extremity
+LESION_00962,ISIC_0000962,vasc,histo,77,male,upper extremity
+LESION_00963,ISIC_0000963,bkl,histo,52,female,foot
+LESION_00964,ISIC_0000964,nv,histo,72,female,foot
+LESION_00965,ISIC_0000965,nv,histo,72,female,abdomen
+LESION_00966,ISIC_0000966,nv,consensus,40,female,unknown
+LESION_00967,ISIC_0000967,nv,histo,53,male,lower extremity
+LESION_00968,ISIC_0000968,nv,histo,41,male,foot
+LESION_00969,ISIC_0000969,nv,histo,69,male,trunk
+LESION_00970,ISIC_0000970,nv,follow_up,78,female,foot
+LESION_00971,ISIC_0000971,nv,histo,26,male,lower extremity
+LESION_00972,ISIC_0000972,nv,histo,39,male,trunk
+LESION_00973,ISIC_0000973,bcc,follow_up,79,male,foot
+LESION_00974,ISIC_0000974,mel,histo,30,male,abdomen
+LESION_00975,ISIC_0000975,akiec,histo,32,male,upper extremity
+LESION_00976,ISIC_0000976,nv,histo,78,male,foot
+LESION_00977,ISIC_0000977,nv,histo,40,male,face
+LESION_00978,ISIC_0000978,nv,histo,54,male,unknown
+LESION_00979,ISIC_0000979,nv,histo,27,female,upper extremity
+LESION_00980,ISIC_0000980,nv,histo,79,male,back
+LESION_00981,ISIC_0000981,nv,consensus,62,female,face
+LESION_00982,ISIC_0000982,mel,histo,27,male,chest
+LESION_00983,ISIC_0000983,nv,consensus,57,male,back
+LESION_00984,ISIC_0000984,nv,follow_up,37,male,foot
+LESION_00985,ISIC_0000985,nv,histo,39,female,chest
+LESION_00986,ISIC_0000986,nv,consensus,25,male,back
+LESION_00987,ISIC_0000987,nv,histo,69,male,chest
+LESION_00988,ISIC_0000988,nv,histo,46,female,face
+LESION_00989,ISIC_0000989,nv,histo,37,male,face
+LESION_00990,ISIC_0000990,bkl,histo,41,male,abdomen
+LESION_00991,ISIC_0000991,nv,consensus,35,male,chest
+LESION_00992,ISIC_0000992,vasc,histo,39,female,foot
+LESION_00993,ISIC_0000993,vasc,histo,44,female,upper extremity
+LESION_00994,ISIC_0000994,nv,consensus,55,male,abdomen
+LESION_00995,ISIC_0000995,mel,histo,23,male,unknown
+LESION_00996,ISIC_0000996,nv,histo,68,male,upper extremity
+LESION_00997,ISIC_0000997,mel,histo,73,female,abdomen
+LESION_00998,ISIC_0000998,bcc,histo,79,male,unknown
+LESION_00999,ISIC_0000999,nv,histo,21,female,abdomen
