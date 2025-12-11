@@ -1,0 +1,86 @@
+{
+  "image_size": 224,
+  "num_classes": 7,
+  "class_names": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "class_full_names": {
+    "akiec": "Actinic Keratoses (Pre-cancerous)",
+    "bcc": "Basal Cell Carcinoma (Malignant)",
+    "bkl": "Benign Keratosis (Benign)",
+    "df": "Dermatofibroma (Benign)",
+    "mel": "Melanoma (Malignant - Most Dangerous)",
+    "nv": "Melanocytic Nevi (Benign)",
+    "vasc": "Vascular Lesions (Benign)"
+  },
+  "malignant_classes": [
+    "mel",
+    "bcc",
+    "akiec"
+  ],
+  "benign_classes": [
+    "nv",
+    "bkl",
+    "df",
+    "vasc"
+  ],
+  "optimized_thresholds": [
+    0.05,
+    0.05,
+    0.21688216924667358,
+    0.05,
+    0.10393617451190948,
+    0.5173673033714294,
+    0.15809445083141327
+  ],
+  "threshold_info": {
+    "akiec": {
+      "threshold": 0.05,
+      "sensitivity": 0.9811320754716981,
+      "specificity": 0.8390804597701149,
+      "youden_j": 0.820212535241813
+    },
+    "bcc": {
+      "threshold": 0.05,
+      "sensitivity": 0.9390243902439024,
+      "specificity": 0.8827586206896552,
+      "youden_j": 0.8217830109335575
+    },
+    "bkl": {
+      "threshold": 0.21688216924667358,
+      "sensitivity": 0.81875,
+      "specificity": 0.8279883381924198,
+      "youden_j": 0.6467383381924198
+    },
+    "df": {
+      "threshold": 0.05,
+      "sensitivity": 0.9166666666666666,
+      "specificity": 0.8050397877984085,
+      "youden_j": 0.7217064544650751
+    },
+    "mel": {
+      "threshold": 0.10393617451190948,
+      "sensitivity": 0.8786127167630058,
+      "specificity": 0.7601177336276674,
+      "youden_j": 0.6387304503906732
+    },
+    "nv": {
+      "threshold": 0.5173673033714294,
+      "sensitivity": 0.8575638506876228,
+      "specificity": 0.8560311284046693,
+      "youden_j": 0.713594979092292
+    },
+    "vasc": {
+      "threshold": 0.15809445083141327,
+      "sensitivity": 0.8636363636363636,
+      "specificity": 0.990728476821192,
+      "youden_j": 0.8543648404575557
+    }
+  }
+}
